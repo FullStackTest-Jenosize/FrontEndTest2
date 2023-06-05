@@ -1,0 +1,25 @@
+.topbar {
+  display: flex;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+
+}
+
+.topbar img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.topbar h1 {
+  font-size: 20px;
+}
+
+.box{
+    z-index: 0;
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-left: 130vh;
+}
